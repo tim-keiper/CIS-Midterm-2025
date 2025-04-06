@@ -51,3 +51,13 @@ This part of the program provides two functionalities:
    - The program asks the user to input a **year**.
    - It checks if the year is a **leap year** using **logical operators** like `&&` (AND) and `||` (OR).
    - The program will print whether the input year is a leap year or not.
+
+## Part 5: Switch Case
+
+This program is simple calculator using a **switch case**. It performs addition, subtraction, multiplication, or division based on the user's input.
+
+Functionality:
+- The user enters two numbers and a mathematical operator (`+`, `-`, `*`, `/`).
+- The program performs the corresponding operation:
+  - **Addition, Subtraction, Multiplication, or Division** (with a check for division by zero).
+- If an invalid operator is entered, an error message is displayed.

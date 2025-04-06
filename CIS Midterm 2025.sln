@@ -16,6 +16,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Logical Operators and IF Statements", "Logical Operators and IF Statements\Logical Operators and IF Statements.vcxproj", "{B2BE12D8-B504-4151-AB18-A0067BE9F0D6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Switch Case", "Switch Case\Switch Case.vcxproj", "{A579AC4E-133C-45A1-A198-D4AB07A52A57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -56,6 +58,14 @@ Global
 		{B2BE12D8-B504-4151-AB18-A0067BE9F0D6}.Release|x64.Build.0 = Release|x64
 		{B2BE12D8-B504-4151-AB18-A0067BE9F0D6}.Release|x86.ActiveCfg = Release|Win32
 		{B2BE12D8-B504-4151-AB18-A0067BE9F0D6}.Release|x86.Build.0 = Release|Win32
+		{A579AC4E-133C-45A1-A198-D4AB07A52A57}.Debug|x64.ActiveCfg = Debug|x64
+		{A579AC4E-133C-45A1-A198-D4AB07A52A57}.Debug|x64.Build.0 = Debug|x64
+		{A579AC4E-133C-45A1-A198-D4AB07A52A57}.Debug|x86.ActiveCfg = Debug|Win32
+		{A579AC4E-133C-45A1-A198-D4AB07A52A57}.Debug|x86.Build.0 = Debug|Win32
+		{A579AC4E-133C-45A1-A198-D4AB07A52A57}.Release|x64.ActiveCfg = Release|x64
+		{A579AC4E-133C-45A1-A198-D4AB07A52A57}.Release|x64.Build.0 = Release|x64
+		{A579AC4E-133C-45A1-A198-D4AB07A52A57}.Release|x86.ActiveCfg = Release|Win32
+		{A579AC4E-133C-45A1-A198-D4AB07A52A57}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
