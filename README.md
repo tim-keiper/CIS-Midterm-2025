@@ -39,3 +39,15 @@ This part of the program uses **cin** to accept user input as well as variable d
 2. **Declaring and initializing variables**:
    - The program declares and initializes variables of different data types: **int**, **float**, **double**, **char**, **string**, **bool**, **long**, **short**, and **unsigned int**.
    - It then prints the values of these variables to the screen.
+
+## Part 4: Logical Operators and IF Statements
+
+This part of the program provides two functionalities:
+
+1. **Determine the largest of three numbers**:
+   - The program asks the user to input **three numbers** and determines the largest using **nested if statements**.
+
+2. **Check if a given year is a leap year**:
+   - The program asks the user to input a **year**.
+   - It checks if the year is a **leap year** using **logical operators** like `&&` (AND) and `||` (OR).
+   - The program will print whether the input year is a leap year or not.

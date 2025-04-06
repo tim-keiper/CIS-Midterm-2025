@@ -40,7 +40,7 @@ void checkLeapYear() {
     cin >> year;
 
     // Check if the year is a leap year using logical operators
-    if ((year % 400 == 0) || (year % 4 == 0 && year % 100 != 0)) {
+    if ((year % 400 == 0) || (year % 4 == 0 && year % 100 != 0)) {  //Leap years are either divisible by 4 but not 100 OR they are divisible by 400.
         cout << year << " is a leap year." << endl;
     }
     else {
