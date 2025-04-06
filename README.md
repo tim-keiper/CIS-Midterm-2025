@@ -61,3 +61,7 @@ Functionality:
 - The program performs the corresponding operation:
   - **Addition, Subtraction, Multiplication, or Division** (with a check for division by zero).
 - If an invalid operator is entered, an error message is displayed.
+
+## Part 6: Debugging
+
+This program checks the **equality** of a variable and then prints the iterator during a **for loop**. Errors in the original code are noted in line comments in the code.
